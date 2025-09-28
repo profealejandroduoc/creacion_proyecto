@@ -18,6 +18,10 @@ Instala los paquetes de node `npm install`
 
 Corre el servidor `npm run dev`
 
+## Tu proyecto está configurado
+
+Prueba cambiando el contenido de App.tsx de la carpeta src
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
