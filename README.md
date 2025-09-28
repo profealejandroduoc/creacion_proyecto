@@ -12,9 +12,11 @@
 5. Seleccionar Libreria React y luego TypeScript + SWC
 6. Ejecuta los comandos sugeridos
 
-`cd creacion_proyecto
-npm install
-npm run dev`
+Cambia de directorio `cd creacion_proyecto`
+
+Instala los paquetes de node `npm install`
+
+Corre el servidor `npm run dev`
 
 # React + TypeScript + Vite
 
